@@ -19,6 +19,7 @@ Used deep learning-based image segmentation
 Implemented a CNN / U-Net style architecture
 Trained on retinal fundus images with corresponding vessel masks
 Applied preprocessing techniques to enhance vessel visibility
+
 🛠️ Technologies & Tools Used
 Python
 TensorFlow / Keras
@@ -29,19 +30,27 @@ Deep Learning (CNN / U-Net)
 📂 Dataset
 Retinal fundus images with ground truth vessel masks
 Public medical imaging datasets (e.g., DRIVE / STARE or similar)
+
+
 ⚙️ Workflow
 Image preprocessing (resizing, normalization, contrast enhancement)
 Model training using convolutional neural networks
 Validation and performance evaluation
 Generation of segmented blood vessel masks
+
+
 📈 Results
 Achieved effective segmentation of retinal blood vessels
 Model successfully captures thin and thick vessel structures
 Demonstrates strong generalization on unseen retinal images
+
+
 🚀 Future Enhancements
 Improve accuracy using advanced architectures (Attention U-Net)
 Deploy as a web or mobile diagnostic tool
 Extend to multi-disease retinal analysis
+
+
 👤 Author
 Korada Chandini
 Aspiring Data Scientist | Machine Learning & AI Enthusiast
