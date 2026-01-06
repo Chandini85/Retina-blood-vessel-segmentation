@@ -1,5 +1,4 @@
 # Retina-blood-vessel-segmentation
-# Retina-blood-vessel-segmentation
 
 ## Retina Blood Vessel Segmentation using Deep Learning
 
